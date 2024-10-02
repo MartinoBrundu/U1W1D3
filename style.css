@@ -49,3 +49,10 @@ text-align: right;}
     padding-top: 10px;
     border-top: 1px solid rgb(45, 45, 238);
 }
+
+#ofusc {
+    color: darkgrey;
+    text-align: center; 
+    font-size: 15px;
+
+}
