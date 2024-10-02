@@ -40,3 +40,12 @@ h3.ingredients {
   .liste { 
     display: inline-block;
 text-align: right;}
+.strong {
+    font-family: "Signika Negative", sans-serif;
+
+}
+
+ .finish {
+    padding-top: 10px;
+    border-top: 1px solid rgb(45, 45, 238);
+}
